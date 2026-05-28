@@ -1,6 +1,10 @@
 <div align="center">
 
-# 🧠 MicroMixer-1
+<img src="logo.svg" width="400" alt="MicroMixer-1 Logo"/>
+
+<br/>
+
+# MicroMixer-1
 
 **Attention-Free Language Model based on MLP-Mixer**
 

@@ -1,6 +1,8 @@
 <div align="center">
 
-# 🧠 MicroMixer-1-1M-TinyStories
+<img src="../../logo.svg" width="300" alt="MicroMixer-1 Logo"/>
+
+# MicroMixer-1-1M-TinyStories
 
 <img src="https://img.shields.io/badge/Parameters-967%2C584-blue?style=for-the-badge&logo=python&logoColor=white&color=%23007BFF" alt="Parameters"/>
 <img src="https://img.shields.io/badge/Architecture-MLP--Mixer-purple?style=for-the-badge&color=%23AE00FF" alt="Architecture"/>
